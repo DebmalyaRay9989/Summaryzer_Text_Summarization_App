@@ -1,4 +1,3 @@
 stopwords
 wordnet
-word_tokenize
-sent_tokenize
+corpus
